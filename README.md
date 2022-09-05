@@ -3,7 +3,7 @@
 </p>
 
 # Perview
-https://random-password-generator-ivory.vercel.app/
+https://random-password-generator-kunjappan.vercel.app/
 
 # Download
 https://www.mediafire.com/file/ipgqfxzf2rur6gu/random-password-generator.zip/file
